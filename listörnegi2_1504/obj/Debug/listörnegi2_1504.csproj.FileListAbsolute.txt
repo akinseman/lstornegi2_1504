@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\bin\Debug\listörnegi2_1504.exe.config
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\bin\Debug\listörnegi2_1504.exe
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\bin\Debug\listörnegi2_1504.pdb
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\obj\Debug\listörnegi2_1504.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\obj\Debug\listörnegi2_1504.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\obj\Debug\listörnegi2_1504.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\obj\Debug\listörnegi2_1504.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\obj\Debug\listörnegi2_1504.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\obj\Debug\listörnegi2_1504.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\obj\Debug\listörnegi2_1504.exe
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\listörnegi2_1504\listörnegi2_1504\obj\Debug\listörnegi2_1504.pdb
